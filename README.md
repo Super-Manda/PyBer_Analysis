@@ -20,11 +20,16 @@ In the challenge assignment, Python scripts are used along with Pandas libraries
 - Matplotlib Library 3.5.1
 - Pandas Library 1.4.2 
 
+**Modules:**
+- [INITIAL](https://github.com/Super-Manda/PyBer_Analysis/blob/main/Pyber.ipynb)
+
+- [CHALLENGE](https://github.com/Super-Manda/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
+
 
 ## Analysis
 Python and Pandas are used to create a summary dataframe of the ride-sharing data by city/jurisdiction type, while Pandas and Matplotlib are also used to create a line graph is presented that shows the total weekly fares for each jurisdiction type. 
 
-## Results
+## :oncoming_automobile:  Results
 
 ### **Summary Dataframe**
 
@@ -80,7 +85,7 @@ In urban areas, the average fare per ride ($24.53) is actually lower than the av
 - This will help us determine affordability.
 
 
-## Recommendations
+## :oncoming_automobile:  Recommendations
 
 ### 1. Maintain or expand business in urban areas: Keep the same number of drivers in urban areas for now, but have them pick up more rides. 
 - **How do we expand business?**  Current events makes it easy to predict the supply and demand of drivers and riders.  For example, Senate Bill S2934 (https://www.njleg.state.nj.us/bill-search/2022/S2934 ) aims to decriminalize psilocybin (magic mushrooms) in this state, putting magic mushrooms on the road to legalization, which goes on top of past legislation that has already legalized cannabis (marijuana).  These could be some of our potential customers who may call for PyBer rides anywhere in the state.  In addition, it means more of an expense for the company to screen PyBer drivers for these additional substances before hire.  Although adding some more drivers in suburban and rural areas makes good sense, there may be diminishing returns of hiring new drivers in general.  Therefore, the idea of making the drivers in urban areas more productive, since they already do a considerable amount of business, could be mutually beneficial because there’d be no new costly hiring processes.  Part of making the drivers in urban areas more productive may also be to give them some incentive to pick up the suburban and rural people who are destined to the urban cities.
